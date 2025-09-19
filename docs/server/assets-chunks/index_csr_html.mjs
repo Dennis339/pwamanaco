@@ -1,9 +1,9 @@
-<!doctype html>
+export default `<!doctype html>
 <html lang="en" data-beasties-container="">
 <head>
   <meta charset="utf-8">
   <title>Pwamanaco</title>
-  <base href="C:/Program Files/Git/pwamanaco/">
+  <base href="./">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="icon" type="image/x-icon" href="favicon.ico">
   <link rel="manifest" href="manifest.webmanifest">
@@ -13,3 +13,4 @@
   <noscript>Please enable JavaScript to continue using this application.</noscript>
 <script src="main-BVMYVCLI.js" type="module"></script></body>
 </html>
+`;
