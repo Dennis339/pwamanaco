@@ -1,6 +1,6 @@
 
 export default {
-  basePath: '.',
+  basePath: 'C:/Program Files/Git/pwamanaco',
   supportedLocales: {
   "en-US": ""
 },
